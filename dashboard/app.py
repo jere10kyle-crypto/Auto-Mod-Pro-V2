@@ -209,6 +209,11 @@ def inject_context():
         "active_guild_id": gid,
     }
 
+# ── Health check (UptimeRobot / Render) ───────────────────────────────────────
+@app.route("/health")
+def health():
+    return jsonify({"status": "ok"}), 200
+
 # ── Guild switch ───────────────────────────────────────────────────────────────
 @app.route("/switch_guild/<guild_id>")
 @login_required
