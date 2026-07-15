@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1495919754140061800",
+    "name": "Bot-V6",
+    "color": "#000000",
+    "position": 11,
+    "managed": true,
+    "permissions": 8
+  },
+  {
+    "id": "1502026987361796138",
+    "name": "new role",
+    "color": "#e91e63",
+    "position": 10,
+    "managed": true,
+    "permissions": 1720707884502593
+  },
+  {
+    "id": "1519883621031481556",
+    "name": "t",
+    "color": "#d38301",
+    "position": 9,
+    "managed": false,
+    "permissions": 0
+  },
+  {
+    "id": "1519883621744509040",
+    "name": "Tttttt",
+    "color": "#ffab01",
+    "position": 8,
+    "managed": false,
+    "permissions": 0
+  },
+  {
+    "id": "1519884679342456982",
+    "name": "Mod bot",
+    "color": "#000000",
+    "position": 7,
+    "managed": true,
+    "permissions": 1721826618638327
+  },
+  {
+    "id": "1519887588293607575",
+    "name": "Ok",
+    "color": "#eaf28f",
+    "position": 6,
+    "managed": false,
+    "permissions": 0
+  },
+  {
+    "id": "1520025615133048943",
+    "name": "67",
+    "color": "#01c7fc",
+    "position": 5,
+    "managed": false,
+    "permissions": 0
+  },
+  {
+    "id": "1520055085080645723",
+    "name": "Thehehehe",
+    "color": "#000000",
+    "position": 4,
+    "managed": false,
+    "permissions": 16908288
+  },
+  {
+    "id": "1523415237343313960",
+    "name": "Jdnsksk",
+    "color": "#99aab5",
+    "position": 3,
+    "managed": false,
+    "permissions": 0
+  },
+  {
+    "id": "1524455153757978816",
+    "name": "MEE6",
+    "color": "#000000",
+    "position": 2,
+    "managed": true,
+    "permissions": 364870364415
+  },
+  {
+    "id": "1525189982774366420",
+    "name": "AutoModPro",
+    "color": "#000000",
+    "position": 1,
+    "managed": true,
+    "permissions": 8864258447638527
+  }
+]

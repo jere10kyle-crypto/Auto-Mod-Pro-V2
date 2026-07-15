@@ -1,0 +1,21 @@
+{% extends "_auth_base.html" %}
+{% block title %}Verify Discord — AutoMod{% endblock %}
+{% block sub %}Verify your Discord account{% endblock %}
+{% block content %}
+<div class="badge-info">
+  The bot sent a 6-digit code to Discord ID <strong>{{ discord_id }}</strong>.<br/>
+  Check your DMs and enter it below.
+</div>
+<form method="post">
+  <label>Verification Code</label>
+  <input type="text" name="code" placeholder="e.g. 482901" autofocus required
+         style="text-align:center;font-size:1.3rem;letter-spacing:0.2em;font-family:'Space Mono',monospace;" maxlength="6" />
+  <button type="submit">Verify Account</button>
+</form>
+<div class="alt" style="margin-top:0.8rem;">
+  Didn't get a DM? <a href="{{ url_for('resend_code') }}">Resend code</a>
+</div>
+<div class="alt">
+  Wrong account? <a href="{{ url_for('logout') }}">Start over</a>
+</div>
+{% endblock %}

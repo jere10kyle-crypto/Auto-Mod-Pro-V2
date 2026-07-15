@@ -1,0 +1,233 @@
+[
+  {
+    "timestamp": "2026-06-11T18:41:30.717306",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:41:35.877089",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:41:36.123765",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:42:06.312645",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:46:35.595958",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:16.543158",
+    "action": "MUTE_T2",
+    "user": "jer10kyle (Jer)",
+    "reason": "Word-repeat spam: 'n' x5 in 10s (15m)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:16.544240",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Word-repeat spam: 'n'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:18.963699",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Spam detection",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:19.103231",
+    "action": "MUTE_T2",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 2 triggered at 2 strike(s) (15m)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:22.208865",
+    "action": "MUTE_T2",
+    "user": "jer10kyle (Jer)",
+    "reason": "Word-repeat spam: 'n' x5 in 10s (15m)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:47:22.209433",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Word-repeat spam: 'n'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:50:00.168609",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 1 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:51:30.375110",
+    "action": "UNMUTE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Self-unmute via dashboard",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:53:57.634757",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:56:38.067956",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T18:57:08.250026",
+    "action": "UNMUTE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Self-unmute via dashboard",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:00:56.305441",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:03:53.146199",
+    "action": "PURGE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Deleted 112 message(s) in #general",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:04:01.459821",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:04:04.088185",
+    "action": "PURGE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Deleted 5 message(s) in #general",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:04:09.195398",
+    "action": "STRIKE",
+    "user": "bedwars_king_ben_23614 (ben)",
+    "reason": "Tier 1 banned word: 'testword'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:04:23.521871",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 1 banned word: 'testword'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:05:21.309110",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 1 banned word: 'testword'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:05:21.672379",
+    "action": "MUTE_T1",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 1 word: 'testword' (5m)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:05:21.836460",
+    "action": "STRIKE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 1 banned word: 'testword'",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:05:22.177769",
+    "action": "MUTE_T1",
+    "user": "jer10kyle (Jer)",
+    "reason": "Tier 1 word: 'testword' (5m)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:05:31.628122",
+    "action": "UNMUTE",
+    "user": "jer10kyle (Jer)",
+    "reason": "Self-unmute via dashboard",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:07:00.616244",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 1 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:07:40.614732",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T19:59:08.276647",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-11T20:45:18.955832",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-12T11:39:59.249980",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  },
+  {
+    "timestamp": "2026-06-12T11:55:15.442164",
+    "action": "AUTO_RESET",
+    "user": "AutoMod",
+    "reason": "Scheduled 12-hour strike reset cleared 0 user record(s)",
+    "moderator": "AutoMod"
+  }
+]

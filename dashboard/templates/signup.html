@@ -1,0 +1,24 @@
+{% extends "_auth_base.html" %}
+{% block title %}Sign up — AutoMod{% endblock %}
+{% block sub %}Create an account{% endblock %}
+{% block content %}
+{% if first_user %}
+  <div class="badge-info">You're the first user — you'll be the global owner.</div>
+{% else %}
+  <div class="badge-info">After signup the bot will DM you a code to verify your Discord account.</div>
+{% endif %}
+<form method="post">
+  <label>Username</label>
+  <input type="text" name="username" autofocus required />
+  <label>Password (min 4 chars)</label>
+  <input type="password" name="password" required />
+  <label>Discord User ID</label>
+  <input type="text" name="discord_id" placeholder="e.g. 123456789012345678" required
+         pattern="\d+" title="Numbers only — right-click your name in Discord → Copy User ID" />
+  <p style="font-size:0.73rem;color:var(--muted);margin-top:0.4rem;">
+    Enable Developer Mode in Discord settings, then right-click your username → <em>Copy User ID</em>.
+  </p>
+  <button type="submit">Create account</button>
+</form>
+<div class="alt">Already have an account? <a href="{{ url_for('login') }}">Sign in</a></div>
+{% endblock %}
