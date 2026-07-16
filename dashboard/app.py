@@ -155,6 +155,15 @@ def health():
     return jsonify({"status": "ok"}), 200
 
 
+@app.route("/auth/debug")
+def auth_debug():
+    return jsonify({
+        "client_id_set": bool(DISCORD_CLIENT_ID),
+        "client_secret_set": bool(DISCORD_CLIENT_SECRET),
+        "redirect_uri": DISCORD_REDIRECT_URI,
+    })
+
+
 @app.route("/login")
 def login():
     if "user_id" in session:
