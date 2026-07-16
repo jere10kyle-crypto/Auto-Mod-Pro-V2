@@ -139,7 +139,7 @@ class DashUser(Base):
 
 def init_db():
     os.makedirs("data", exist_ok=True)
-    Base.metadata.create_all(engine)
+    Base.metadata.create_all(engine, checkfirst=True)
 
 
 def get_db():
